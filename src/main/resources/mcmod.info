@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chestbar",
+  "name": "Chest Search Bar",
+  "description": "Highlights items in chests and shulkerboxes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/toiletgaming/ChestSearchBar",
+  "updateUrl": "",
+  "authorList": ["mrnv/ayywareseller"],
+  "credits": "Vazkii for Quark (original code)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
